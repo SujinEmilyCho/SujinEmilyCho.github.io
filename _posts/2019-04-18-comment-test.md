@@ -1,5 +1,5 @@
 ---
-title: "Comment test"
+title: "This is a test post"
 date: 2020-02-03
 categories:
   - test/second
